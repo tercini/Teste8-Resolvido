@@ -1,0 +1,1121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}|Questao1\\Questao1.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}|Questao1\\Questao1.csproj|solutionrelative:questao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A93-6CCF-49EB-B1A1-65B50DA1B0A3}|Questao5.Tests\\Questao5.Tests.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5.tests\\movimentacaohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A93-6CCF-49EB-B1A1-65B50DA1B0A3}|Questao5.Tests\\Questao5.Tests.csproj|solutionrelative:questao5.tests\\movimentacaohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A93-6CCF-49EB-B1A1-65B50DA1B0A3}|Questao5.Tests\\Questao5.Tests.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5.tests\\saldohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A93-6CCF-49EB-B1A1-65B50DA1B0A3}|Questao5.Tests\\Questao5.Tests.csproj|solutionrelative:questao5.tests\\saldohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A93-6CCF-49EB-B1A1-65B50DA1B0A3}|Questao5.Tests\\Questao5.Tests.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5.tests\\questao5.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F0E9A93-6CCF-49EB-B1A1-65B50DA1B0A3}|Questao5.Tests\\Questao5.Tests.csproj|solutionrelative:questao5.tests\\questao5.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\application\\handlers\\saldohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\saldohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|solutionrelative:questao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A93-6CCF-49EB-B1A1-65B50DA1B0A3}|Questao5.Tests\\Questao5.Tests.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A93-6CCF-49EB-B1A1-65B50DA1B0A3}|Questao5.Tests\\Questao5.Tests.csproj|solutionrelative:questao5.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\application\\handlers\\movimentacaohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\movimentacaohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\commandstore\\idempotenciastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\commandstore\\idempotenciastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\services\\controllers\\movimentacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\movimentacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\commandstore\\iidempotenciastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\commandstore\\iidempotenciastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\commandstore\\requests\\movimentacaostorerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\commandstore\\requests\\movimentacaostorerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\application\\commands\\responses\\movimentacaoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\commands\\responses\\movimentacaoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\application\\queries\\responses\\saldoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\queries\\responses\\saldoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\application\\queries\\requests\\saldorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\queries\\requests\\saldorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\application\\commands\\requests\\movimentacaorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\commands\\requests\\movimentacaorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\querystore\\contacorrentestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\querystore\\contacorrentestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\application\\services\\movimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\services\\movimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\commandstore\\movimentacaostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\commandstore\\movimentacaostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\commandstore\\imovimentacaostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\commandstore\\imovimentacaostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\services\\controllers\\saldocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\saldocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\application\\services\\isaldoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\services\\isaldoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\application\\services\\imovimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\services\\imovimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\domain\\entities\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\domain\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\domain\\entities\\idempotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\idempotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\querystore\\saldostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\querystore\\saldostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\querystore\\requests\\saldostorerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\querystore\\requests\\saldostorerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\querystore\\responses\\saldostoreresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\querystore\\responses\\saldostoreresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\commandstore\\responses\\movimentacaostoreresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\commandstore\\responses\\movimentacaostoreresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\querystore\\isaldostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\querystore\\isaldostore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\database\\querystore\\icontacorrentestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\querystore\\icontacorrentestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\sqlite\\idatabasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\sqlite\\idatabasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\sqlite\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\sqlite\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\sqlite\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\sqlite\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\infrastructure\\services\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\application\\services\\saldoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\services\\saldoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\desafio\\teste 8-c-doispontos-resolvido (1)\\teste 8-c-doispontos-resolvido\\questao5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rtcosta\\AppData\\Local\\SourceServer\\4ad41f538ef9035733c0489e42d14a0077c233116d733c49fcf3b58e07093fe3\\Dapper\\SqlMapper.Async.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 109,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovimentacaoHandler.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Handlers\\MovimentacaoHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\MovimentacaoHandler.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Handlers\\MovimentacaoHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\MovimentacaoHandler.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:37:24.343Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:226:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:227:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:228:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:229:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:230:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:231:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:232:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:224:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:176:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:177:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:178:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:179:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:180:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:181:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:182:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:183:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:184:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:185:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:186:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:187:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:188:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:189:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:190:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:191:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:192:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:193:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:194:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:195:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:196:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:197:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:198:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:199:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:200:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:201:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:202:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:203:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:204:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:205:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:206:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:207:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:208:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:209:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:210:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:211:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:212:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:213:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:214:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:215:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:216:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:217:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:218:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:219:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:220:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:221:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:222:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:223:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:225:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:233:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:234:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovimentacaoHandlerTests.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5.Tests\\MovimentacaoHandlerTests.cs",
+              "RelativeDocumentMoniker": "Questao5.Tests\\MovimentacaoHandlerTests.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5.Tests\\MovimentacaoHandlerTests.cs",
+              "RelativeToolTip": "Questao5.Tests\\MovimentacaoHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:25:17.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaldoHandlerTests.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5.Tests\\SaldoHandlerTests.cs",
+              "RelativeDocumentMoniker": "Questao5.Tests\\SaldoHandlerTests.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5.Tests\\SaldoHandlerTests.cs",
+              "RelativeToolTip": "Questao5.Tests\\SaldoHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:42:15.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao1\\Program.cs",
+              "RelativeDocumentMoniker": "Questao1\\Program.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao1\\Program.cs",
+              "RelativeToolTip": "Questao1\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowDYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:28:48.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaldoHandler.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Handlers\\SaldoHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\SaldoHandler.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Handlers\\SaldoHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\SaldoHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:41:01.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Questao5.Tests.csproj",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5.Tests\\Questao5.Tests.csproj",
+              "RelativeDocumentMoniker": "Questao5.Tests\\Questao5.Tests.csproj",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5.Tests\\Questao5.Tests.csproj",
+              "RelativeToolTip": "Questao5.Tests\\Questao5.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T12:22:07.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao2\\Program.cs",
+              "RelativeDocumentMoniker": "Questao2\\Program.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao2\\Program.cs",
+              "RelativeToolTip": "Questao2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:31:33.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Questao5.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Questao5.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:21:52.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdempotenciaStore.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\IdempotenciaStore.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\CommandStore\\IdempotenciaStore.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\IdempotenciaStore.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\CommandStore\\IdempotenciaStore.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:53:10.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaldoRequest.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Queries\\Requests\\SaldoRequest.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Queries\\Requests\\SaldoRequest.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Queries\\Requests\\SaldoRequest.cs",
+              "RelativeToolTip": "Questao5\\Application\\Queries\\Requests\\SaldoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:55:57.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovimentacaoController.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Services\\Controllers\\MovimentacaoController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\MovimentacaoController.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Services\\Controllers\\MovimentacaoController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\MovimentacaoController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:58:12.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaldoResponse.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Queries\\Responses\\SaldoResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Queries\\Responses\\SaldoResponse.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Queries\\Responses\\SaldoResponse.cs",
+              "RelativeToolTip": "Questao5\\Application\\Queries\\Responses\\SaldoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:56:37.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovimentacaoStoreRequest.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\MovimentacaoStoreRequest.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\MovimentacaoStoreRequest.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\MovimentacaoStoreRequest.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\MovimentacaoStoreRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:09:05.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IIdempotenciaStore.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\IIdempotenciaStore.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\CommandStore\\IIdempotenciaStore.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\IIdempotenciaStore.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\CommandStore\\IIdempotenciaStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:52:05.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovimentacaoResponse.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Commands\\Responses\\MovimentacaoResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Commands\\Responses\\MovimentacaoResponse.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Commands\\Responses\\MovimentacaoResponse.cs",
+              "RelativeToolTip": "Questao5\\Application\\Commands\\Responses\\MovimentacaoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:55:17.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAJAUAAAAAAAAAAArwJUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-07T04:57:06.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovimentacaoRequest.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Commands\\Requests\\MovimentacaoRequest.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Commands\\Requests\\MovimentacaoRequest.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Commands\\Requests\\MovimentacaoRequest.cs",
+              "RelativeToolTip": "Questao5\\Application\\Commands\\Requests\\MovimentacaoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:54:48.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Program.cs",
+              "RelativeDocumentMoniker": "Questao5\\Program.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Program.cs",
+              "RelativeToolTip": "Questao5\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:32:52.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovimentacaoStore.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\MovimentacaoStore.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\CommandStore\\MovimentacaoStore.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\MovimentacaoStore.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\CommandStore\\MovimentacaoStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:13:43.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MovimentacaoService.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Services\\MovimentacaoService.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Services\\MovimentacaoService.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Services\\MovimentacaoService.cs",
+              "RelativeToolTip": "Questao5\\Application\\Services\\MovimentacaoService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:07:16.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContaCorrenteStore.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\ContaCorrenteStore.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\QueryStore\\ContaCorrenteStore.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\ContaCorrenteStore.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\QueryStore\\ContaCorrenteStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:21:58.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMovimentacaoStore.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\IMovimentacaoStore.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\CommandStore\\IMovimentacaoStore.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\IMovimentacaoStore.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\CommandStore\\IMovimentacaoStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:11:53.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SaldoController.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Services\\Controllers\\SaldoController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\SaldoController.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Services\\Controllers\\SaldoController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\SaldoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:59:10.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISaldoService.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Services\\ISaldoService.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Services\\ISaldoService.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Services\\ISaldoService.cs",
+              "RelativeToolTip": "Questao5\\Application\\Services\\ISaldoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:06:36.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMovimentacaoService.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Services\\IMovimentacaoService.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Services\\IMovimentacaoService.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Services\\IMovimentacaoService.cs",
+              "RelativeToolTip": "Questao5\\Application\\Services\\IMovimentacaoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:03:33.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Movimento.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Domain\\Entities\\Movimento.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\Movimento.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Domain\\Entities\\Movimento.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\Movimento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:53:53.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:53:13.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Idempotencia.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:54:15.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SaldoStore.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\SaldoStore.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\QueryStore\\SaldoStore.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\SaldoStore.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\QueryStore\\SaldoStore.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:14:48.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SaldoStoreRequest.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\SaldoStoreRequest.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\SaldoStoreRequest.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\SaldoStoreRequest.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\SaldoStoreRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:10:09.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SaldoStoreResponse.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\Responses\\SaldoStoreResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\QueryStore\\Responses\\SaldoStoreResponse.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\Responses\\SaldoStoreResponse.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\QueryStore\\Responses\\SaldoStoreResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:10:28.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MovimentacaoStoreResponse.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\Responses\\MovimentacaoStoreResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\CommandStore\\Responses\\MovimentacaoStoreResponse.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\CommandStore\\Responses\\MovimentacaoStoreResponse.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\CommandStore\\Responses\\MovimentacaoStoreResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:09:28.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ISaldoStore.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\ISaldoStore.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\QueryStore\\ISaldoStore.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\ISaldoStore.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\QueryStore\\ISaldoStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:12:47.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IContaCorrenteStore.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\IContaCorrenteStore.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\QueryStore\\IContaCorrenteStore.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Database\\QueryStore\\IContaCorrenteStore.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\QueryStore\\IContaCorrenteStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:21:24.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DatabaseBootstrap.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:29:48.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Sqlite\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Sqlite\\DatabaseConfig.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Sqlite\\DatabaseConfig.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Sqlite\\DatabaseConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:29:58.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IDatabaseBootstrap.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Sqlite\\IDatabaseBootstrap.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Sqlite\\IDatabaseBootstrap.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Sqlite\\IDatabaseBootstrap.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Sqlite\\IDatabaseBootstrap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:30:03.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\appsettings.json",
+              "RelativeDocumentMoniker": "Questao5\\appsettings.json",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\appsettings.json",
+              "RelativeToolTip": "Questao5\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T21:46:42.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Services\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Infrastructure\\Services\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:57:46.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SaldoService.cs",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Services\\SaldoService.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Services\\SaldoService.cs",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Application\\Services\\SaldoService.cs",
+              "RelativeToolTip": "Questao5\\Application\\Services\\SaldoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:08:05.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Questao5\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\desafio\\Teste 8-c-doispontos-resolvido (1)\\Teste 8-c-doispontos-resolvido\\Questao5\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Questao5\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T22:26:42.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SqlMapper.Async.cs",
+              "DocumentMoniker": "C:\\Users\\rtcosta\\AppData\\Local\\SourceServer\\4ad41f538ef9035733c0489e42d14a0077c233116d733c49fcf3b58e07093fe3\\Dapper\\SqlMapper.Async.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\rtcosta\\AppData\\Local\\SourceServer\\4ad41f538ef9035733c0489e42d14a0077c233116d733c49fcf3b58e07093fe3\\Dapper\\SqlMapper.Async.cs",
+              "ToolTip": "C:\\Users\\rtcosta\\AppData\\Local\\SourceServer\\4ad41f538ef9035733c0489e42d14a0077c233116d733c49fcf3b58e07093fe3\\Dapper\\SqlMapper.Async.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\rtcosta\\AppData\\Local\\SourceServer\\4ad41f538ef9035733c0489e42d14a0077c233116d733c49fcf3b58e07093fe3\\Dapper\\SqlMapper.Async.cs",
+              "ViewState": "AQIAAOcBAAAAAAAAAAAnwPYBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:05:47.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

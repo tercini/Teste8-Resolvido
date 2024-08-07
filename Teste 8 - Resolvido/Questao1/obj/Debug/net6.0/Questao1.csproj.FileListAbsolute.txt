@@ -1,0 +1,28 @@
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\obj\Debug\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfo.cs
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\obj\Debug\net6.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\bin\Debug\net6.0\Questao1.exe
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\bin\Debug\net6.0\Questao1.deps.json
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\bin\Debug\net6.0\Questao1.runtimeconfig.json
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\bin\Debug\net6.0\Questao1.dll
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\bin\Debug\net6.0\Questao1.pdb
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\obj\Debug\net6.0\Questao1.dll
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\obj\Debug\net6.0\refint\Questao1.dll
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\obj\Debug\net6.0\Questao1.pdb
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
+C:\Users\rtcosta\Downloads\Teste 8\Questao1\obj\Debug\net6.0\ref\Questao1.dll
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\bin\Debug\net6.0\Questao1.exe
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\bin\Debug\net6.0\Questao1.deps.json
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\bin\Debug\net6.0\Questao1.runtimeconfig.json
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\bin\Debug\net6.0\Questao1.dll
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\bin\Debug\net6.0\Questao1.pdb
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\obj\Debug\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfoInputs.cache
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfo.cs
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\obj\Debug\net6.0\Questao1.csproj.CoreCompileInputs.cache
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\obj\Debug\net6.0\Questao1.dll
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\obj\Debug\net6.0\refint\Questao1.dll
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\obj\Debug\net6.0\Questao1.pdb
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
+C:\desafio\Teste 8-c-doispontos-resolvido (1)\Teste 8-c-doispontos-resolvido\Questao1\obj\Debug\net6.0\ref\Questao1.dll
